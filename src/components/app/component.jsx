@@ -8,7 +8,7 @@ const propTypes = {
 const App = ({ style }) => (
   <main style={style.contentWrapper}>
     <h1>My Records</h1>
-    <img src="https://media.giphy.com/media/6WoyTLbXc0qoE/giphy.gif" alt="plate" />
+    <img src="https://media.giphy.com/media/Ca9TNthVXlWms/giphy.gif" alt="plate" />
   </main>
 );
 
