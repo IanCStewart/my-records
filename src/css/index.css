@@ -1,0 +1,14 @@
+body {
+  font-family: 'Libre Barcode 39 Text', cursive;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 16px;
+}
